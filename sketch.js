@@ -10,19 +10,12 @@ $(document).ready(function() {
 	var F2 = [1,1,0] ;
 	var F3 = [1,1,0] ;
 
-	var sumM1 = 
-
 
 	if ( F1[1]==1){
 		//$( "#informationM" ).text( "1번 화장실을 사용하세요" );
 	}
 
 	setInterval(function(){
-
-				
-
-		var M1total=0;
-		for(var i in arr) { total += arr[i]; }
 
 
 
